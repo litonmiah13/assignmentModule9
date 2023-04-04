@@ -1,0 +1,1 @@
+One of the challenges I faced was making the website responsive. To overcome this challenge, I used CSS media queries to create different styles for different screen sizes to make the website more responsive.
